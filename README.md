@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# [Vinicius Nascimento] <img src="https://64.media.tumblr.com/20754de42b297160f1f567d79b398463/dc562ea9323f4b7e-7b/s500x750/c94036133049a1083b2b77a295aab4eaf0c77208.gifv" width="30px">
+# [Vinicius Nascimento] <img src="https://i.redd.it/wild-rift-arcane-icons-are-extractable-in-6-0-v0-yy88sp5xmude1.png?width=256&format=png&auto=webp&s=0957e436eea6e12779fe9f8b2c2882482135abb4" width="30px">
 
 Eu sou <strong>Vinicius Nascimento</strong>, <strong>Olá, sou estudante de ADS pelo Embarque Digital!</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>HTML, CSS e JavaScript</strong> 
+- 💬 Pergunte-me sobre: <strong>Adoro café, música e aprender coisas novas</strong>
+- 📣 Nós podemos falar em: <strong>Português e estou melhorando bastante meu inglês</strong>
 
 <div align="center">
 
