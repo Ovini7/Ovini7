@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Olá,<strong> sou estudante de ADS pelo Embarque Digital!</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>HTML, CSS e JavaScript</strong> 
-- 💬 Pergunte-me sobre: <strong>Adoro café, música e aprender coisas novas</strong>
+- 💬 Eu gosto de: <strong> Café, música e aprender coisas novas</strong>
 - 📣 Nós podemos falar em: <strong> Português e estou melhorando bastante meu inglês</strong>
 
 <div align="center">
@@ -38,3 +38,4 @@ Olá,<strong> sou estudante de ADS pelo Embarque Digital!</strong> 👨🏻‍�
 <a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Ovini7"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ovini7&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
+
