@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# [Vinicius Nascimento] <img src="[(https://www.google.com/url?sa=i&url=https%3A%2F%2Farcanegifs.tumblr.com%2Fpost%2F767362694865141760%2Farcane-league-of-legends-2x04-paint-the-town&psig=AOvVaw36l-GFo-ab4HdxtOsLqMrp&ust=1755734747698000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCKk-OLmI8DFQAAAAAdAAAAABAE)](https://64.media.tumblr.com/20754de42b297160f1f567d79b398463/dc562ea9323f4b7e-7b/s500x750/c94036133049a1083b2b77a295aab4eaf0c77208.gifv)" width="30px">
+# [Vinicius Nascimento] <img src="https://64.media.tumblr.com/20754de42b297160f1f567d79b398463/dc562ea9323f4b7e-7b/s500x750/c94036133049a1083b2b77a295aab4eaf0c77208.gifv" width="30px">
 
 Eu sou <strong>Vinicius Nascimento</strong>, <strong>Olá, sou estudante de ADS pelo Embarque Digital!</strong> 👨🏻‍💻 
 
