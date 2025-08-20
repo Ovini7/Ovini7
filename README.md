@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, meu nome é Vinicius Nascimento! <img src="https://i.redd.it/wild-rift-arcane-icons-are-extractable-in-6-0-v0-yy88sp5xmude1.png?width=256&format=png&auto=webp&s=0957e436eea6e12779fe9f8b2c2882482135abb4" width="70px">
+# Olá, meu nome é Vinicius! <img src="https://i.redd.it/wild-rift-arcane-icons-are-extractable-in-6-0-v0-yy88sp5xmude1.png?width=256&format=png&auto=webp&s=0957e436eea6e12779fe9f8b2c2882482135abb4" width="70px">
 
 <strong> Sou estudante de ADS pelo Embarque Digital! Tenho 23 anos e sou apaixonado por tecnologia, sou amante de video games e jogos, estou iniciando na área mas com muita disposição para adquirir novos conhecimentos!</strong> 👨🏻‍💻🎮 
 
