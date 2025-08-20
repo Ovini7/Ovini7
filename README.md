@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# [Vinicius Nascimento] <img src="https://i.redd.it/wild-rift-arcane-icons-are-extractable-in-6-0-v0-yy88sp5xmude1.png?width=256&format=png&auto=webp&s=0957e436eea6e12779fe9f8b2c2882482135abb4" width="50px">
+# [Vinicius Nascimento] <img src="https://i.redd.it/wild-rift-arcane-icons-are-extractable-in-6-0-v0-yy88sp5xmude1.png?width=256&format=png&auto=webp&s=0957e436eea6e12779fe9f8b2c2882482135abb4" width="70px">
 
 Eu sou <strong>Vinicius Nascimento</strong>, <strong>Olá, sou estudante de ADS pelo Embarque Digital!</strong> 👨🏻‍💻 
 
