@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 # Olá, meu nome é Vinicius Nascimento! <img src="https://i.redd.it/wild-rift-arcane-icons-are-extractable-in-6-0-v0-yy88sp5xmude1.png?width=256&format=png&auto=webp&s=0957e436eea6e12779fe9f8b2c2882482135abb4" width="70px">
 
-,<strong> Sou estudante de ADS pelo Embarque Digital! Tenho 23 anos e sou apaixonado por tecnologia, sou amante de video games e jogos, estou iniciando na área mas com muita disposição para adquirir novos conhecimentos!</strong> 👨🏻‍💻🎮 
+<strong> Sou estudante de ADS pelo Embarque Digital! Tenho 23 anos e sou apaixonado por tecnologia, sou amante de video games e jogos, estou iniciando na área mas com muita disposição para adquirir novos conhecimentos!</strong> 👨🏻‍💻🎮 
 
 # Um pouco sobre mim 
 - 🚀 Atualmente estou aprendendo: <strong>HTML, CSS e JavaScript</strong> 
 - 💬 Eu gosto de: <strong> Tecnologias, café, música, video games e aprender coisas novas!</strong>
-- 🎮 Gosto de jogar: Lol, FC25, Red Dead Redemption, Hogwarts Legacy...
+- 🎮 Gosto de jogar: <strong> Lol, FC25, Red Dead Redemption, Hogwarts Legacy...</strong>
 - 📣 Nós podemos falar em: <strong> Português e estou melhorando bastante meu inglês</strong>
 
 <div align="center">
