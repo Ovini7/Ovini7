@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# [Vinicius Nascimento] <img src="https://i.redd.it/wild-rift-arcane-icons-are-extractable-in-6-0-v0-yy88sp5xmude1.png?width=256&format=png&auto=webp&s=0957e436eea6e12779fe9f8b2c2882482135abb4" width="70px">
+# Vinicius Nascimento <img src="https://i.redd.it/wild-rift-arcane-icons-are-extractable-in-6-0-v0-yy88sp5xmude1.png?width=256&format=png&auto=webp&s=0957e436eea6e12779fe9f8b2c2882482135abb4" width="70px">
 
 Eu sou <strong> Vinicius Nascimento</strong>, <strong> sou estudante de ADS pelo Embarque Digital!</strong> 👨🏻‍💻 
 
@@ -33,4 +33,8 @@ Eu sou <strong> Vinicius Nascimento</strong>, <strong> sou estudante de ADS pelo
   <a href="#" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
+</div>
+<div align="center">
+<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Ovini7"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ovini7&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+</a>
 </div>
