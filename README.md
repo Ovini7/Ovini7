@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
+  <a href="https://www.linkedin.com/in/vinicius-nascimento-761b73311/" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="https://mail.google.com/mail/u/0/#inbox"/></a>
 
   <a href="#" alt="Linkedin">
