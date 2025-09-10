@@ -16,28 +16,21 @@ Here are some ideas to get you started:
 -->
 # Olá, meu nome é Vinicius! <img src="https://i.redd.it/wild-rift-arcane-icons-are-extractable-in-6-0-v0-yy88sp5xmude1.png?width=256&format=png&auto=webp&s=0957e436eea6e12779fe9f8b2c2882482135abb4" width="70px">
 
-<strong> Sou estudante de ADS pelo Embarque Digital! Tenho 23 anos e sou apaixonado por tecnologia, sou amante de video games e jogos, estou iniciando na área mas com muita disposição para adquirir novos conhecimentos!</strong> 👨🏻‍💻🎮 
+# 💫 About Me:
+Sou estudante de ADS pelo Embarque Digital! <br>Tenho 23 anos e sou apaixonado por tecnologia<br>sou amante de video games e jogos<br>estou iniciando na área mas com muita disposição <br>para adquirir novos conhecimentos! 👨🏻‍💻🎮<br><br>🚀 Atualmente estou aprendendo: HTML, CSS, JavaScript e Python<br>💬 Eu gosto de: Tecnologias, café, música, video games e aprender coisas novas!<br>🎮 Gosto de jogar: Lol, FC25, Red Dead Redemption, Hogwarts Legacy...<br>📣 Nós podemos falar em: Português e estou melhorando bastante meu inglês
 
-# Um pouco sobre mim 
-- 🚀 Atualmente estou aprendendo: <strong>HTML, CSS e JavaScript</strong> 
-- 💬 Eu gosto de: <strong> Tecnologias, café, música, video games e aprender coisas novas!</strong>
-- 🎮 Gosto de jogar: <strong> Lol, FC25, Red Dead Redemption, Hogwarts Legacy...</strong>
-- 📣 Nós podemos falar em: <strong> Português e estou melhorando bastante meu inglês</strong>
 
-<div align="center">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vininascimento.dev/?igsh=Zjh2cjB4Z3AwN3U4#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinicius-nascimento-761b73311/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/u/0/#inbox) 
 
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="/></a>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vininascimentodev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vininascimentodev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vininascimentodev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <a href="https://www.linkedin.com/in/vinicius-nascimento-761b73311/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="/></a>
+---
+[![](https://visitcount.itsvg.in/api?id=vininascimentodev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <a href="https://www.instagram.com/vininascimento.dev/?igsh=Zjh2cjB4Z3AwN3U4#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
-
-</div>
-<div align="center">
-<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Ovini7"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ovini7&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
-</a>
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
